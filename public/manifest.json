@@ -1,0 +1,10 @@
+{
+  "name": "منصة الأستاذ محمد حسين التعليمية",
+  "short_name": "الأستاذ محمد حسين",
+  "description": "منصة تعليمية متميزة لطلاب المرحلة الثانوية في مادتي العلوم المتكاملة والكيمياء مع الأستاذ محمد حسين.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08111F",
+  "theme_color": "#08111F",
+  "orientation": "portrait"
+}

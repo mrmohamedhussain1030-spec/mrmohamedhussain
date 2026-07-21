@@ -1,0 +1,32 @@
+{
+  "ar": {
+    "title": "منصة الأستاذ محمد حسين للعلوم والكيمياء",
+    "subtitle": "مرحبًا بك في المنصة الرسمية لمستر محمد حسين، حيث نقدم تجربة تعليمية متكاملة في العلوم المتكاملة والكيمياء للمرحلة الثانوية، تعتمد على الفهم العميق والتطبيق العملي، من خلال شرح احترافي، تدريبات ذكية، واختبارات تفاعلية تساعدك على تحقيق أعلى الدرجات والتفوق.",
+    "buttonText": "ابدأ رحلة التفوق الآن",
+    "home": "الرئيسية",
+    "courses": "المقررات الدراسية",
+    "exams": "الامتحانات الإلكترونية",
+    "register": "بوابة التسجيل",
+    "portal": "بوابة الطالب",
+    "totalStudents": "طالب مسجل بالمنصة",
+    "activeSubscriptions": "كارت اشتراك فعال",
+    "totalCourses": "مقررات كيمياء وعلوم",
+    "examsCompleted": "امتحان الكتروني تم حله",
+    "certificatesIssued": "شهادة تفوق مصدرة"
+  },
+  "en": {
+    "title": "Mr. Mohamed Hussein Platform for Sciences & Chemistry",
+    "subtitle": "Welcome to the official platform of Mr. Mohamed Hussein, where we offer an integrated learning experience in sciences and chemistry for high school. Grounded in deep understanding and practical application, we provide professional explanations, smart training, and interactive exams to help you achieve the highest grades.",
+    "buttonText": "Start the Journey of Excellence Now",
+    "home": "Home",
+    "courses": "Courses",
+    "exams": "Electronic Exams",
+    "register": "Registration Portal",
+    "portal": "Student Portal",
+    "totalStudents": "Students Registered",
+    "activeSubscriptions": "Active Cards",
+    "totalCourses": "Chemistry & Science Courses",
+    "examsCompleted": "Exams Solved",
+    "certificatesIssued": "Honor Certificates Issued"
+  }
+}
